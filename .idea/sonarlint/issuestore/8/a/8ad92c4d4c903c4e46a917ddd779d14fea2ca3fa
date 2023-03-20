@@ -1,0 +1,8 @@
+
+gpython:S100!"KRename method "getSize" to match the regular expression ^[a-z_][a-z0-9_]*$.(‡Åîâùÿÿÿÿ
+gpython:S100$"KRename method "setSize" to match the regular expression ^[a-z_][a-z0-9_]*$.(ŠøðÚøÿÿÿÿ
+dpython:S100R"HRename method "goUp" to match the regular expression ^[a-z_][a-z0-9_]*$.(‡¹ò¬üÿÿÿÿ
+fpython:S100T"JRename method "goDown" to match the regular expression ^[a-z_][a-z0-9_]*$.(áûÇÅúÿÿÿÿ
+apython:S100V"JRename method "goLeft" to match the regular expression ^[a-z_][a-z0-9_]*$.(É²€ù
+gpython:S100X"KRename method "goRight" to match the regular expression ^[a-z_][a-z0-9_]*$.(±»ˆÉøÿÿÿÿ
+fpython:S100["ORename method "getDistance" to match the regular expression ^[a-z_][a-z0-9_]*$.(¬ÝÀ®
